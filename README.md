@@ -1,7 +1,7 @@
 # Home_climat
 
 
-Выводы с микроконтроллера
+### Выводы с микроконтроллера
 
 Initializing SD card OK!
 
