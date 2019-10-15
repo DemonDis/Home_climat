@@ -36,8 +36,8 @@ File myFile;
 const uint8_t   CS_pin    = 10; // SD card
 
 // Подключение датчиков
-//int             sensorPin      = A0;   // датчик влажности
-//int             sensorPWR      = 7;    // питание датчика влажности
+//int           sensorPin      = A0;   // датчик влажности
+//int           sensorPWR      = 7;    // питание датчика влажности
 int             pinlight       = A3;   // датчик света
 
 // подключение RGB-светодиода
